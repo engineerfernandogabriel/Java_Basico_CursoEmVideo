@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Vetores {
     public static void main(String[] args) {
 
-        int numcam[] = {11, 9, 23 , 15};
+        int numcam[] = {7, 11, 9, 23 , 15, 6, 73, 42};
 
         System.out.println(Arrays.toString(numcam));
 
@@ -20,4 +20,5 @@ public class Vetores {
         System.out.println(Arrays.toString(numcam));
 
     }
+
 }
