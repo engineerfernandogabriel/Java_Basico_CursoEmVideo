@@ -29,7 +29,6 @@ public class CondicaoTriangulos {
         } else if ((n1 != n2) && (n2 != n3) && (n3 != n2)) {
             System.out.println("o triângulo é 'ESCALENO'");
         }
-
     }
 
 }
