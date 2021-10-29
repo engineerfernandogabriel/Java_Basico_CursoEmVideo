@@ -23,5 +23,11 @@ public class Main {
         l[3].status();
         l[4].status();
         l[5].status();
+
+        Luta uec01 = new Luta();
+        uec01.marcarLuta(l[1], l[3]);
+        uec01.lutar();
+
+
     }
 }
