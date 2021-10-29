@@ -57,8 +57,6 @@ public class Luta {
     }
 
     //Métodos Especiais
-
-
     public Lutador getDesafiado() {
         return desafiado;
     }
